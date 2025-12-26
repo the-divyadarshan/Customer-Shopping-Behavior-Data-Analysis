@@ -1,2 +1,2 @@
 # Customer-Shopping-Behavior-Data-Analysis
-A complete end-to-end analysis of customer purchasing behavior, review trends, and shopping patterns. Includes data cleaning, EDA, SQL-based insights, and interactive Power BI dashboards. Delivers actionable insights to enhance customer experience and drive revenue growth.
+This project is an end-to-end data analytics workflow designed to analyze customer shopping behavior, purchase trends, and review patterns. It includes loading and exploring a dataset in Python, performing data cleaning, running SQL queries in MySQL/SQL Server, and building an interactive dashboard in Power BI. A final report and presentation (created using Gamma) summarize the key insights and business recommendations.
